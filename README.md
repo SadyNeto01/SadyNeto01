@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadyneto01&label=Profile%20views&color=0e75b6&style=flat" alt="sadyneto01" /> </p>
 
-- 🌱 I’m currently learning **Java, C, C++ ,C# and .NET**
+- 🌱 I’m currently learning **Python, FastAPI and SQL Alchemy**
 
 - 💬 Ask me about **C, C++ and Java**
 
